@@ -1,24 +1,26 @@
-# Summary
-This data set describes the hydrologic unit code boundaries at the 12th order. This is a great boundary layer when trying to see which sub watersheds are in your county of the Bay drainage area.
+# Title
+Watershed Boundary Dataset (WBD) and National Hydrologic Dataset (NHD)
 
-# Description
- 
-This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the entire United States. This data set consists of geo-referenced digital data and associated attributes created in accordance with the "Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A, Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3" (04/01/2009). http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/index.html . Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification.
-  
-The Watershed and Subwatershed hydrologic unit boundaries provide a uniquely identified and uniform method of subdividing large drainage areas. The smaller sized 6th level sub-watersheds (up to 250,000 acres) are useful for numerous application programs supported by a variety of local, State, and Federal Agencies. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information. The dataset is seamless and, for the most part, a nationally consistent geospatial database.
+# Originator
+ USGS and USDA - NRCS
 
-# Author/Originator
+# Abstract
 
-U.S. Department of Agriculture, Natural Resources Conservation Service, National Cartography and Geospatial Center
+WBD provides a uniquely identified and uniform method of subdividing large drainage areas. The data is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
+
+The Watershed Boundary Dataset (WBD) defines the areal extent of surface water drainage to a point, accounting for all land and surface areas. Watershed Boundaries are determined solely upon science-based hydrologic principles, not favoring any administrative boundaries or special projects, nor particular program or agency. The intent of defining Hydrologic Units (HU) for the Watershed Boundary Dataset is to establish a baseline drainage boundary framework, accounting for all land and surface areas. At a minimum, the WBD is being delineated and georeferenced to the USGS 1:24,000 scale topographic base map meeting National Map Accuracy Standards (NMAS). Hydrologic units are given a Hydrologic Unit Code (HUC). For example, a hydrologic region has a 2-digit HUC. A HUC describes where the unit is in the country and the level of the unit. 
+
+"A hydrologic unit is a drainage area delineated to nest in a multi-level, hierarchical drainage system. Its boundaries are defined by hydrographic and topographic criteria that delineate an area of land upstream from a specific point on a river, stream or similar surface waters. A hydrologic unit can accept surface water directly from upstream drainage areas, and indirectly from associated surface areas such as remnant, non-contributing, and diversions to form a drainage area with single or multiple outlet points. Hydrologic units are only synonymous with classic watersheds when their boundaries include all the source area contributing surface water to a single defined outlet point."
+
+Please see http://nhd.usgs.gov/wbd.html for more information.
+
+WBD HUC 8, 10, 12 polygons and WBD lines are available on the Gateway. According to National Bulletin 340-13-07, NRCS users are required to use an annual version which is found in the WBD_Annual_NRCS_OfficialSnapshot_ForTheCurrentFiscalYear folder in the above site.
+
+More information can be obtained here:  http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html
 
 # Contact Information
 
-Steve Nechero
-501 W. Felix St., Bldg. 23
-Fort Worth, Texas
-76115 USA
-Steven.Nechero@ftw.usda.gov
-(817) 509-3366
+U.S. Department of Agriculture, Natural Resources Conservation Service, National Cartography and Geospatial Center
 
 # User Constraints
 
